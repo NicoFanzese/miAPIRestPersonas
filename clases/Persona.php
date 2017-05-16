@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once"AccesoDatos.php";
 class Persona
 {
@@ -9,8 +9,8 @@ class Persona
  	public $apellido;
   	public $dni;
   	public $foto;		
-        public $sexo;  	
-        public $password;
+    public $sexo;  	
+    public $password;
 
 //--------------------------------------------------------------------------------//
 
